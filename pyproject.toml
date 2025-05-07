@@ -5,3 +5,4 @@ description = "Content-aware output compression for AI coding assistants. 36 spe
 requires-python = ">=3.10"
 # clarify the control flow
 # handle the edge case from the last release
+# handle the edge case from the last release
